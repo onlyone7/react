@@ -1,0 +1,18 @@
+   .nbar{
+      background: #7aac7c;
+      padding: 50px;    
+   }
+   .lineau{
+        justify-content: center;
+        align-items: center;
+   }
+   p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: rgb(16, 51, 18);
+    
+   }
+   .vacia{
+      background-color: #8dd673;
+      height: 5px;
+   }

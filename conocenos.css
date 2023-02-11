@@ -1,0 +1,52 @@
+
+   
+.vision-mision{
+    background: #6f8b64;
+    border: 2px solid #f0ecec;
+    align-items: start;
+    padding: 70px;
+    justify-content:center;
+    display: flex
+
+
+
+
+}
+b{
+    color: #012006;
+    font-size: 25px;
+    
+}
+
+.lineahimno{
+    background: #6f8b64;
+    border: 2px solid #e7dede;
+    text-align: justify;
+    align-items: center;
+    
+    justify-content: space-evenly;
+    display: flex;
+    padding: 70px;
+    
+    
+    
+}
+
+
+.himno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify
+}
+.entrega{
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+
+
+
+
+

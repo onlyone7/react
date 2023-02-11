@@ -1,0 +1,42 @@
+
+
+.contenedorf{
+        background: #2e3f27;
+        display: block;
+        border-top: #134101 solid 2px;
+       
+}
+small{
+        color: rgb(221, 218, 213);
+        font-size: 18px;
+}
+
+.lineaf{
+        padding: 50px;
+        
+}
+.lineafi{ 
+      justify-content: center;
+      align-items: center; 
+       padding: 20px; 
+      
+}
+a{
+        font-size: 35px;
+        color: rgb(185, 186, 190);
+        margin: 20px;
+        text-align: center;
+        text-decoration: none;
+
+}
+a :hover {
+        color: black;
+}
+.lineacopi{
+        background-color: rgb(10, 46, 46);
+}
+
+
+
+ 
+
